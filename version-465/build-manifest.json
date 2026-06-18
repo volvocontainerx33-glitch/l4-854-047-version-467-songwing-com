@@ -1,0 +1,10 @@
+{
+  "site_title": "高清电影大全-热门影片片库-高清视频在线播放",
+  "logo": "高清电影大全",
+  "movie_count": 2000,
+  "category_count": 10,
+  "html_pages": 2013,
+  "uses_baidu_analytics": true,
+  "cover_pattern": "1.jpg - 150.jpg at site root",
+  "generated_files_are_formatted": true
+}
